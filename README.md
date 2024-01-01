@@ -1,4 +1,4 @@
-# lizmo-slacks
+# deploy-script
 A Script for Web Application Deployments
 
 I created this script initially for my laravel project deployments to provide updates in a way with minimised downtime. The projects do not need persistent storage but this feature can be worked into the script by creating a symlink to $FOLDER/storage.  
